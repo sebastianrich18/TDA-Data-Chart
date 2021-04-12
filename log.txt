@@ -1,0 +1,2965 @@
+2021-04-09T00:45:02.451Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T08:00:02.241Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T08:15:01.763Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T08:30:02.241Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T08:45:01.756Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T09:00:02.226Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T09:15:01.681Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T09:30:02.125Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T09:45:01.546Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T10:00:02.015Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T10:15:02.466Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T10:30:01.963Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T10:45:02.431Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T11:00:01.966Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T11:15:02.429Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T11:30:01.922Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T11:45:02.384Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T12:00:01.885Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T12:15:02.383Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T12:30:01.875Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T12:45:02.352Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T13:00:01.806Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T13:15:02.349Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T13:30:01.800Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T13:45:02.296Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T14:00:01.856Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T14:15:01.585Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T14:30:02.208Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T14:45:02.189Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T15:00:01.763Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T15:15:02.447Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T15:30:02.004Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T15:45:01.588Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T16:00:02.144Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T16:15:01.693Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T16:30:02.260Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T16:45:01.899Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T17:00:02.478Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T17:15:02.111Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T17:30:01.708Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T17:45:02.338Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T18:00:01.895Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T18:15:02.433Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T18:30:01.971Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T18:45:01.685Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T19:00:02.296Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T19:15:02.246Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T19:30:01.914Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T19:45:02.510Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T20:00:02.130Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T20:15:01.719Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T20:30:02.233Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T20:45:01.786Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T21:00:02.223Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T21:15:01.708Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T21:30:02.217Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T21:45:01.679Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T22:00:02.146Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T22:15:01.617Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T22:30:02.075Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T22:45:01.925Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T23:00:02.400Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T23:15:01.865Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-09T23:30:02.392Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-09T23:45:01.848Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-10T00:00:02.353Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-10T00:15:01.814Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-10T00:30:02.308Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-10T00:45:01.783Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T08:00:02.507Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T08:15:02.024Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T08:30:02.485Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T08:45:01.930Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T09:00:02.493Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T09:15:02.013Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T09:30:01.556Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T09:45:02.079Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T10:00:02.471Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T10:15:01.993Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T10:30:02.527Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T10:45:01.994Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T11:00:02.470Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T11:15:01.928Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T11:30:02.393Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T11:45:01.874Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T12:00:02.386Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T12:15:01.881Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T12:30:02.504Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T12:45:02.083Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T13:00:02.528Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T13:15:02.039Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T13:30:02.499Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T13:45:02.098Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T14:00:01.663Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T14:15:02.290Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T14:30:01.848Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T14:45:02.449Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T15:00:02.098Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T15:15:01.774Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T15:30:02.476Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T15:45:02.068Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T16:00:01.739Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T16:15:02.351Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T16:30:02.044Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T16:45:01.624Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T17:00:02.310Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T17:15:02.109Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T17:30:01.821Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T17:45:02.473Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T18:00:02.078Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T18:15:02.148Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T18:30:01.779Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T18:45:02.467Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T19:00:02.039Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T19:15:01.657Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T19:30:02.272Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T19:45:01.948Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T20:00:02.466Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T20:15:02.090Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T20:30:01.579Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T20:45:02.113Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T21:00:01.669Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T21:15:02.172Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T21:30:01.652Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+DONE WRITING POSITIONS
+2021-04-12T21:45:02.217Z
+GETTING TD AMERATRADE DATA
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T21:50:01.691Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+[ { shortQuantity: 0,
+    averagePrice: 76.01,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 118.62,
+    currentDayProfitLoss: -5.295,
+    currentDayProfitLossPercentage: -1.33,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.69,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 0.395,
+    currentDayProfitLoss: -21.15,
+    currentDayProfitLossPercentage: -7.05,
+    longQuantity: 300,
+    settledLongQuantity: 300,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '86730L109', symbol: 'SNDL' },
+    marketValue: 278.85,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 300 },
+  { shortQuantity: 0,
+    averagePrice: 10.39,
+    currentDayProfitLoss: -4,
+    currentDayProfitLossPercentage: -0.4,
+    longQuantity: 100,
+    settledLongQuantity: 100,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '34619R102', symbol: 'FRX' },
+    marketValue: 1001,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 100 },
+  { shortQuantity: 0,
+    averagePrice: 223.83,
+    currentDayProfitLoss: 0.12,
+    currentDayProfitLossPercentage: 0.02,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 511.82,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 429.78,
+    currentDayProfitLoss: 75.39,
+    currentDayProfitLossPercentage: 3.71,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 2106.45,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 295.24,
+    settledLongQuantity: 295.24,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 295.24,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 295.24 },
+  { shortQuantity: 0,
+    averagePrice: 93.79,
+    currentDayProfitLoss: -5.96,
+    currentDayProfitLossPercentage: -1.93,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '29089Q105', symbol: 'EBS' },
+    marketValue: 303.44,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 55.12,
+    currentDayProfitLoss: -37.8,
+    currentDayProfitLossPercentage: -4.57,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 789.8,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 350.96,
+    currentDayProfitLoss: 0.48,
+    currentDayProfitLossPercentage: 0.06,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.46,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 235.5,
+    currentDayProfitLoss: -2.1,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 560.18,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 380,
+    currentDayProfitLoss: -17.71,
+    currentDayProfitLossPercentage: -11.18,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '36467W109', symbol: 'GME' },
+    marketValue: 140.65,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 3.378,
+    currentDayProfitLoss: -112.2,
+    currentDayProfitLossPercentage: -11.49,
+    longQuantity: 330,
+    settledLongQuantity: 330,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 864.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 330 },
+  { shortQuantity: 0,
+    averagePrice: 109.15,
+    currentDayProfitLoss: -7.6,
+    currentDayProfitLossPercentage: -1.55,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '874039100', symbol: 'TSM' },
+    marketValue: 483.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 42.059,
+    currentDayProfitLoss: -17.12,
+    currentDayProfitLossPercentage: -2.81,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '62914V106', symbol: 'NIO' },
+    marketValue: 592.8,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 180.965,
+    currentDayProfitLoss: -6.04,
+    currentDayProfitLossPercentage: -1.2,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '097023105', symbol: 'BA' },
+    marketValue: 498.68,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+SNDL
+[ 'TAN', 'AAPL' ]
+FRX
+[ 'TAN', 'AAPL', 'SNDL' ]
+MSFT
+[ 'TAN', 'AAPL', 'SNDL', 'FRX' ]
+TSLA
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT' ]
+MMDA1
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA' ]
+EBS
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1' ]
+AMD
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS' ]
+SPY
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS', 'AMD' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY' ]
+GME
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME' ]
+TSM
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL' ]
+NIO
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM' ]
+BA
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM',
+  'NIO' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 76.01 },
+  AAPL: { marketValue: 393.69, shares: 3, avgPrice: 118.62 },
+  SNDL: { marketValue: 278.85, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 511.82, shares: 2, avgPrice: 223.83 },
+  TSLA: { marketValue: 2106.45, shares: 3, avgPrice: 429.78 },
+  MMDA1: { marketValue: 295.24, shares: 295.24, avgPrice: 1 },
+  EBS: { marketValue: 303.44, shares: 4, avgPrice: 93.79 },
+  AMD: { marketValue: 789.8, shares: 10, avgPrice: 55.12 },
+  SPY: { marketValue: 823.46, shares: 2, avgPrice: 350.96 },
+  VBK: { marketValue: 560.18, shares: 2, avgPrice: 235.5 },
+  GME: { marketValue: 140.65, shares: 1, avgPrice: 380 },
+  VISL: { marketValue: 864.6, shares: 330, avgPrice: 3.378 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.8, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 498.68, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
+2021-04-12T21:55:02.176Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+[ { shortQuantity: 0,
+    averagePrice: 76.01,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 118.62,
+    currentDayProfitLoss: -5.265,
+    currentDayProfitLossPercentage: -1.32,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.72,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 0.395,
+    currentDayProfitLoss: -21.3,
+    currentDayProfitLossPercentage: -7.1,
+    longQuantity: 300,
+    settledLongQuantity: 300,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '86730L109', symbol: 'SNDL' },
+    marketValue: 278.7,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 300 },
+  { shortQuantity: 0,
+    averagePrice: 10.39,
+    currentDayProfitLoss: -4,
+    currentDayProfitLossPercentage: -0.4,
+    longQuantity: 100,
+    settledLongQuantity: 100,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '34619R102', symbol: 'FRX' },
+    marketValue: 1001,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 100 },
+  { shortQuantity: 0,
+    averagePrice: 223.83,
+    currentDayProfitLoss: 0.2,
+    currentDayProfitLossPercentage: 0.04,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 511.9,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 429.78,
+    currentDayProfitLoss: 75.42,
+    currentDayProfitLossPercentage: 3.71,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 2106.48,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 295.24,
+    settledLongQuantity: 295.24,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 295.24,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 295.24 },
+  { shortQuantity: 0,
+    averagePrice: 93.79,
+    currentDayProfitLoss: -5.96,
+    currentDayProfitLossPercentage: -1.93,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '29089Q105', symbol: 'EBS' },
+    marketValue: 303.44,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 55.12,
+    currentDayProfitLoss: -38.3,
+    currentDayProfitLossPercentage: -4.63,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 789.3,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 350.96,
+    currentDayProfitLoss: 0.42,
+    currentDayProfitLossPercentage: 0.05,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.4,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 235.5,
+    currentDayProfitLoss: -2.1,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 560.18,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 380,
+    currentDayProfitLoss: -17.71,
+    currentDayProfitLossPercentage: -11.18,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '36467W109', symbol: 'GME' },
+    marketValue: 140.65,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 3.378,
+    currentDayProfitLoss: -112.2,
+    currentDayProfitLossPercentage: -11.49,
+    longQuantity: 330,
+    settledLongQuantity: 330,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 864.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 330 },
+  { shortQuantity: 0,
+    averagePrice: 109.15,
+    currentDayProfitLoss: -7.6,
+    currentDayProfitLossPercentage: -1.55,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '874039100', symbol: 'TSM' },
+    marketValue: 483.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 42.059,
+    currentDayProfitLoss: -17.28,
+    currentDayProfitLossPercentage: -2.83,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '62914V106', symbol: 'NIO' },
+    marketValue: 592.64,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 180.965,
+    currentDayProfitLoss: -6.1,
+    currentDayProfitLossPercentage: -1.21,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '097023105', symbol: 'BA' },
+    marketValue: 498.62,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+SNDL
+[ 'TAN', 'AAPL' ]
+FRX
+[ 'TAN', 'AAPL', 'SNDL' ]
+MSFT
+[ 'TAN', 'AAPL', 'SNDL', 'FRX' ]
+TSLA
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT' ]
+MMDA1
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA' ]
+EBS
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1' ]
+AMD
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS' ]
+SPY
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS', 'AMD' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY' ]
+GME
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME' ]
+TSM
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL' ]
+NIO
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM' ]
+BA
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM',
+  'NIO' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 76.01 },
+  AAPL: { marketValue: 393.72, shares: 3, avgPrice: 118.62 },
+  SNDL: { marketValue: 278.7, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 511.9, shares: 2, avgPrice: 223.83 },
+  TSLA: { marketValue: 2106.48, shares: 3, avgPrice: 429.78 },
+  MMDA1: { marketValue: 295.24, shares: 295.24, avgPrice: 1 },
+  EBS: { marketValue: 303.44, shares: 4, avgPrice: 93.79 },
+  AMD: { marketValue: 789.3, shares: 10, avgPrice: 55.12 },
+  SPY: { marketValue: 823.4, shares: 2, avgPrice: 350.96 },
+  VBK: { marketValue: 560.18, shares: 2, avgPrice: 235.5 },
+  GME: { marketValue: 140.65, shares: 1, avgPrice: 380 },
+  VISL: { marketValue: 864.6, shares: 330, avgPrice: 3.378 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.64, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 498.62, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
+2021-04-12T22:00:01.609Z
+GETTING TD AMERATRADE DATA
+[ { shortQuantity: 0,
+    averagePrice: 76.01,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 118.62,
+    currentDayProfitLoss: -5.265,
+    currentDayProfitLossPercentage: -1.32,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.72,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 0.395,
+    currentDayProfitLoss: -21.3,
+    currentDayProfitLossPercentage: -7.1,
+    longQuantity: 300,
+    settledLongQuantity: 300,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '86730L109', symbol: 'SNDL' },
+    marketValue: 278.7,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 300 },
+  { shortQuantity: 0,
+    averagePrice: 10.39,
+    currentDayProfitLoss: -4,
+    currentDayProfitLossPercentage: -0.4,
+    longQuantity: 100,
+    settledLongQuantity: 100,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '34619R102', symbol: 'FRX' },
+    marketValue: 1001,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 100 },
+  { shortQuantity: 0,
+    averagePrice: 223.83,
+    currentDayProfitLoss: 0.14,
+    currentDayProfitLossPercentage: 0.03,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 511.84,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 429.78,
+    currentDayProfitLoss: 74.94,
+    currentDayProfitLossPercentage: 3.69,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 2106,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 295.24,
+    settledLongQuantity: 295.24,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 295.24,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 295.24 },
+  { shortQuantity: 0,
+    averagePrice: 93.79,
+    currentDayProfitLoss: -5.96,
+    currentDayProfitLossPercentage: -1.93,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '29089Q105', symbol: 'EBS' },
+    marketValue: 303.44,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 55.12,
+    currentDayProfitLoss: -38.3,
+    currentDayProfitLossPercentage: -4.63,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 789.3,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 350.96,
+    currentDayProfitLoss: 0.46,
+    currentDayProfitLossPercentage: 0.06,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.44,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 235.5,
+    currentDayProfitLoss: -2.1,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 560.18,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 380,
+    currentDayProfitLoss: -17.74,
+    currentDayProfitLossPercentage: -11.2,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '36467W109', symbol: 'GME' },
+    marketValue: 140.62,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 3.378,
+    currentDayProfitLoss: -112.2,
+    currentDayProfitLossPercentage: -11.49,
+    longQuantity: 330,
+    settledLongQuantity: 330,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 864.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 330 },
+  { shortQuantity: 0,
+    averagePrice: 109.15,
+    currentDayProfitLoss: -7.6,
+    currentDayProfitLossPercentage: -1.55,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '874039100', symbol: 'TSM' },
+    marketValue: 483.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 42.059,
+    currentDayProfitLoss: -17.44,
+    currentDayProfitLossPercentage: -2.86,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '62914V106', symbol: 'NIO' },
+    marketValue: 592.48,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 180.965,
+    currentDayProfitLoss: -6.1,
+    currentDayProfitLossPercentage: -1.21,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '097023105', symbol: 'BA' },
+    marketValue: 498.62,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+SNDL
+[ 'TAN', 'AAPL' ]
+FRX
+[ 'TAN', 'AAPL', 'SNDL' ]
+MSFT
+[ 'TAN', 'AAPL', 'SNDL', 'FRX' ]
+TSLA
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT' ]
+MMDA1
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA' ]
+EBS
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1' ]
+AMD
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS' ]
+SPY
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS', 'AMD' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY' ]
+GME
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME' ]
+TSM
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL' ]
+NIO
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM' ]
+BA
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM',
+  'NIO' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 76.01 },
+  AAPL: { marketValue: 393.72, shares: 3, avgPrice: 118.62 },
+  SNDL: { marketValue: 278.7, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 511.84, shares: 2, avgPrice: 223.83 },
+  TSLA: { marketValue: 2106, shares: 3, avgPrice: 429.78 },
+  MMDA1: { marketValue: 295.24, shares: 295.24, avgPrice: 1 },
+  EBS: { marketValue: 303.44, shares: 4, avgPrice: 93.79 },
+  AMD: { marketValue: 789.3, shares: 10, avgPrice: 55.12 },
+  SPY: { marketValue: 823.44, shares: 2, avgPrice: 350.96 },
+  VBK: { marketValue: 560.18, shares: 2, avgPrice: 235.5 },
+  GME: { marketValue: 140.62, shares: 1, avgPrice: 380 },
+  VISL: { marketValue: 864.6, shares: 330, avgPrice: 3.378 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.48, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 498.62, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T22:05:02.074Z
+GETTING TD AMERATRADE DATA
+[ { shortQuantity: 0,
+    averagePrice: 76.01,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 118.62,
+    currentDayProfitLoss: -5.055,
+    currentDayProfitLossPercentage: -1.27,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.93,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 0.395,
+    currentDayProfitLoss: -21,
+    currentDayProfitLossPercentage: -7,
+    longQuantity: 300,
+    settledLongQuantity: 300,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '86730L109', symbol: 'SNDL' },
+    marketValue: 279,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 300 },
+  { shortQuantity: 0,
+    averagePrice: 10.39,
+    currentDayProfitLoss: -4,
+    currentDayProfitLossPercentage: -0.4,
+    longQuantity: 100,
+    settledLongQuantity: 100,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '34619R102', symbol: 'FRX' },
+    marketValue: 1001,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 100 },
+  { shortQuantity: 0,
+    averagePrice: 223.83,
+    currentDayProfitLoss: 0.12,
+    currentDayProfitLossPercentage: 0.02,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 511.82,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 429.78,
+    currentDayProfitLoss: 75.39,
+    currentDayProfitLossPercentage: 3.71,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 2106.45,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 295.24,
+    settledLongQuantity: 295.24,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 295.24,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 295.24 },
+  { shortQuantity: 0,
+    averagePrice: 93.79,
+    currentDayProfitLoss: -5.96,
+    currentDayProfitLossPercentage: -1.93,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '29089Q105', symbol: 'EBS' },
+    marketValue: 303.44,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 55.12,
+    currentDayProfitLoss: -38,
+    currentDayProfitLossPercentage: -4.59,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 789.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 350.96,
+    currentDayProfitLoss: 0.6,
+    currentDayProfitLossPercentage: 0.07,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.58,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 235.5,
+    currentDayProfitLoss: -2.1,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 560.18,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 380,
+    currentDayProfitLoss: -17.72,
+    currentDayProfitLossPercentage: -11.19,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '36467W109', symbol: 'GME' },
+    marketValue: 140.64,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 3.378,
+    currentDayProfitLoss: -112.2,
+    currentDayProfitLossPercentage: -11.49,
+    longQuantity: 330,
+    settledLongQuantity: 330,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 864.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 330 },
+  { shortQuantity: 0,
+    averagePrice: 109.15,
+    currentDayProfitLoss: -7.6,
+    currentDayProfitLossPercentage: -1.55,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '874039100', symbol: 'TSM' },
+    marketValue: 483.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 42.059,
+    currentDayProfitLoss: -16.96,
+    currentDayProfitLossPercentage: -2.78,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '62914V106', symbol: 'NIO' },
+    marketValue: 592.96,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 180.965,
+    currentDayProfitLoss: -6.12,
+    currentDayProfitLossPercentage: -1.21,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '097023105', symbol: 'BA' },
+    marketValue: 498.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+SNDL
+[ 'TAN', 'AAPL' ]
+FRX
+[ 'TAN', 'AAPL', 'SNDL' ]
+MSFT
+[ 'TAN', 'AAPL', 'SNDL', 'FRX' ]
+TSLA
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT' ]
+MMDA1
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA' ]
+EBS
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1' ]
+AMD
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS' ]
+SPY
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS', 'AMD' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY' ]
+GME
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME' ]
+TSM
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL' ]
+NIO
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM' ]
+BA
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM',
+  'NIO' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 76.01 },
+  AAPL: { marketValue: 393.93, shares: 3, avgPrice: 118.62 },
+  SNDL: { marketValue: 279, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 511.82, shares: 2, avgPrice: 223.83 },
+  TSLA: { marketValue: 2106.45, shares: 3, avgPrice: 429.78 },
+  MMDA1: { marketValue: 295.24, shares: 295.24, avgPrice: 1 },
+  EBS: { marketValue: 303.44, shares: 4, avgPrice: 93.79 },
+  AMD: { marketValue: 789.6, shares: 10, avgPrice: 55.12 },
+  SPY: { marketValue: 823.58, shares: 2, avgPrice: 350.96 },
+  VBK: { marketValue: 560.18, shares: 2, avgPrice: 235.5 },
+  GME: { marketValue: 140.64, shares: 1, avgPrice: 380 },
+  VISL: { marketValue: 864.6, shares: 330, avgPrice: 3.378 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.96, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 498.6, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T22:10:02.542Z
+GETTING TD AMERATRADE DATA
+[ { shortQuantity: 0,
+    averagePrice: 67.286,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 114.883,
+    currentDayProfitLoss: -5.265,
+    currentDayProfitLossPercentage: -1.32,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.72,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 216.85,
+    currentDayProfitLoss: 0.3,
+    currentDayProfitLossPercentage: 0.06,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 512,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 35.766,
+    currentDayProfitLoss: -15.04,
+    currentDayProfitLossPercentage: -4.09,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '171439102', symbol: 'CCIV' },
+    marketValue: 352.48,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 434.87,
+    currentDayProfitLoss: 24.98,
+    currentDayProfitLossPercentage: 3.69,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 702,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 646.92,
+    settledLongQuantity: 646.92,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 646.92,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 646.92 },
+  { shortQuantity: 0,
+    averagePrice: 13.11,
+    currentDayProfitLoss: -8.3,
+    currentDayProfitLossPercentage: -8.81,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '00165C104', symbol: 'AMC' },
+    marketValue: 85.9,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 21.81,
+    currentDayProfitLoss: -51.4,
+    currentDayProfitLossPercentage: -13.01,
+    longQuantity: 20,
+    settledLongQuantity: 20,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88688T100', symbol: 'TLRY' },
+    marketValue: 343.8,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 20 },
+  { shortQuantity: 0,
+    averagePrice: 17.265,
+    currentDayProfitLoss: -5.2,
+    currentDayProfitLossPercentage: -1.9,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '26922A842', symbol: 'JETS' },
+    marketValue: 267.8,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 81.63,
+    currentDayProfitLoss: -30.56,
+    currentDayProfitLossPercentage: -4.62,
+    longQuantity: 8,
+    settledLongQuantity: 8,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 631.52,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 8 },
+  { shortQuantity: 0,
+    averagePrice: 80.836,
+    currentDayProfitLoss: 2.35,
+    currentDayProfitLossPercentage: 0.5,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908553', symbol: 'VNQ' },
+    marketValue: 471.05,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 345.41,
+    currentDayProfitLoss: 0.3,
+    currentDayProfitLossPercentage: 0.04,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.28,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 230.26,
+    currentDayProfitLoss: -1.05,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 280.09,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 26.875,
+    currentDayProfitLoss: -10.8,
+    currentDayProfitLossPercentage: -2.25,
+    longQuantity: 20,
+    settledLongQuantity: 20,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '69608A108', symbol: 'PLTR' },
+    marketValue: 470,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 20 },
+  { shortQuantity: 0,
+    averagePrice: 33.9,
+    currentDayProfitLoss: 11,
+    currentDayProfitLossPercentage: 2.24,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '565788106', symbol: 'MARA' },
+    marketValue: 501,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 3.95,
+    currentDayProfitLoss: -14.4,
+    currentDayProfitLossPercentage: -3.91,
+    longQuantity: 135,
+    settledLongQuantity: 35,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 353.7,
+    maintenanceRequirement: 0,
+    currentDayCost: 264.5,
+    previousSessionLongQuantity: 35 },
+  { shortQuantity: 0,
+    averagePrice: 20.951,
+    currentDayProfitLoss: -5.4,
+    currentDayProfitLossPercentage: -2.9,
+    longQuantity: 18,
+    settledLongQuantity: 18,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '75971T301', symbol: 'SOL' },
+    marketValue: 180.9,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 18 },
+  { shortQuantity: 0,
+    averagePrice: 37.52,
+    currentDayProfitLoss: -13.68,
+    currentDayProfitLossPercentage: -4.6,
+    longQuantity: 8,
+    settledLongQuantity: 8,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '48138M105', symbol: 'JMIA' },
+    marketValue: 283.92,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 8 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+MSFT
+[ 'TAN', 'AAPL' ]
+CCIV
+[ 'TAN', 'AAPL', 'MSFT' ]
+TSLA
+[ 'TAN', 'AAPL', 'MSFT', 'CCIV' ]
+MMDA1
+[ 'TAN', 'AAPL', 'MSFT', 'CCIV', 'TSLA' ]
+AMC
+[ 'TAN', 'AAPL', 'MSFT', 'CCIV', 'TSLA', 'MMDA1' ]
+TLRY
+[ 'TAN', 'AAPL', 'MSFT', 'CCIV', 'TSLA', 'MMDA1', 'AMC' ]
+JETS
+[ 'TAN', 'AAPL', 'MSFT', 'CCIV', 'TSLA', 'MMDA1', 'AMC', 'TLRY' ]
+AMD
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS' ]
+VNQ
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD' ]
+SPY
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ',
+  'SPY' ]
+PLTR
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ',
+  'SPY',
+  'VBK' ]
+MARA
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ',
+  'SPY',
+  'VBK',
+  'PLTR' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ',
+  'SPY',
+  'VBK',
+  'PLTR',
+  'MARA' ]
+SOL
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ',
+  'SPY',
+  'VBK',
+  'PLTR',
+  'MARA',
+  'VISL' ]
+JMIA
+[ 'TAN',
+  'AAPL',
+  'MSFT',
+  'CCIV',
+  'TSLA',
+  'MMDA1',
+  'AMC',
+  'TLRY',
+  'JETS',
+  'AMD',
+  'VNQ',
+  'SPY',
+  'VBK',
+  'PLTR',
+  'MARA',
+  'VISL',
+  'SOL' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 67.286 },
+  AAPL: { marketValue: 393.72, shares: 3, avgPrice: 114.883 },
+  MSFT: { marketValue: 512, shares: 2, avgPrice: 216.85 },
+  CCIV: { marketValue: 352.48, shares: 16, avgPrice: 35.766 },
+  TSLA: { marketValue: 702, shares: 1, avgPrice: 434.87 },
+  MMDA1: { marketValue: 646.92, shares: 646.92, avgPrice: 1 },
+  AMC: { marketValue: 85.9, shares: 10, avgPrice: 13.11 },
+  TLRY: { marketValue: 343.8, shares: 20, avgPrice: 21.81 },
+  JETS: { marketValue: 267.8, shares: 10, avgPrice: 17.265 },
+  AMD: { marketValue: 631.52, shares: 8, avgPrice: 81.63 },
+  VNQ: { marketValue: 471.05, shares: 5, avgPrice: 80.836 },
+  SPY: { marketValue: 823.28, shares: 2, avgPrice: 345.41 },
+  VBK: { marketValue: 280.09, shares: 1, avgPrice: 230.26 },
+  PLTR: { marketValue: 470, shares: 20, avgPrice: 26.875 },
+  MARA: { marketValue: 501, shares: 10, avgPrice: 33.9 },
+  VISL: { marketValue: 353.7, shares: 135, avgPrice: 3.95 },
+  SOL: { marketValue: 180.9, shares: 18, avgPrice: 20.951 },
+  JMIA: { marketValue: 283.92, shares: 8, avgPrice: 37.52 } }
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T22:15:02.043Z
+GETTING TD AMERATRADE DATA
+[ { shortQuantity: 0,
+    averagePrice: 76.01,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 118.62,
+    currentDayProfitLoss: -5.235,
+    currentDayProfitLossPercentage: -1.31,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.75,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 0.395,
+    currentDayProfitLoss: -21.33,
+    currentDayProfitLossPercentage: -7.11,
+    longQuantity: 300,
+    settledLongQuantity: 300,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '86730L109', symbol: 'SNDL' },
+    marketValue: 278.67,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 300 },
+  { shortQuantity: 0,
+    averagePrice: 10.39,
+    currentDayProfitLoss: -4,
+    currentDayProfitLossPercentage: -0.4,
+    longQuantity: 100,
+    settledLongQuantity: 100,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '34619R102', symbol: 'FRX' },
+    marketValue: 1001,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 100 },
+  { shortQuantity: 0,
+    averagePrice: 223.83,
+    currentDayProfitLoss: 0.14,
+    currentDayProfitLossPercentage: 0.03,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 511.84,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 429.78,
+    currentDayProfitLoss: 74.97,
+    currentDayProfitLossPercentage: 3.69,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 2106.03,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 295.24,
+    settledLongQuantity: 295.24,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 295.24,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 295.24 },
+  { shortQuantity: 0,
+    averagePrice: 93.79,
+    currentDayProfitLoss: -5.96,
+    currentDayProfitLossPercentage: -1.93,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '29089Q105', symbol: 'EBS' },
+    marketValue: 303.44,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 55.12,
+    currentDayProfitLoss: -37.7,
+    currentDayProfitLossPercentage: -4.56,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 789.9,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 350.96,
+    currentDayProfitLoss: 0.24,
+    currentDayProfitLossPercentage: 0.03,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.22,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 235.5,
+    currentDayProfitLoss: -2.1,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 560.18,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 380,
+    currentDayProfitLoss: -17.72,
+    currentDayProfitLossPercentage: -11.19,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '36467W109', symbol: 'GME' },
+    marketValue: 140.64,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 3.378,
+    currentDayProfitLoss: -112.2,
+    currentDayProfitLossPercentage: -11.49,
+    longQuantity: 330,
+    settledLongQuantity: 330,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 864.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 330 },
+  { shortQuantity: 0,
+    averagePrice: 109.15,
+    currentDayProfitLoss: -7.6,
+    currentDayProfitLossPercentage: -1.55,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '874039100', symbol: 'TSM' },
+    marketValue: 483.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 42.059,
+    currentDayProfitLoss: -17.12,
+    currentDayProfitLossPercentage: -2.81,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '62914V106', symbol: 'NIO' },
+    marketValue: 592.8,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 180.965,
+    currentDayProfitLoss: -6.1,
+    currentDayProfitLossPercentage: -1.21,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '097023105', symbol: 'BA' },
+    marketValue: 498.62,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+SNDL
+[ 'TAN', 'AAPL' ]
+FRX
+[ 'TAN', 'AAPL', 'SNDL' ]
+MSFT
+[ 'TAN', 'AAPL', 'SNDL', 'FRX' ]
+TSLA
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT' ]
+MMDA1
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA' ]
+EBS
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1' ]
+AMD
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS' ]
+SPY
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS', 'AMD' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY' ]
+GME
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME' ]
+TSM
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL' ]
+NIO
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM' ]
+BA
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM',
+  'NIO' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 76.01 },
+  AAPL: { marketValue: 393.75, shares: 3, avgPrice: 118.62 },
+  SNDL: { marketValue: 278.67, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 511.84, shares: 2, avgPrice: 223.83 },
+  TSLA: { marketValue: 2106.03, shares: 3, avgPrice: 429.78 },
+  MMDA1: { marketValue: 295.24, shares: 295.24, avgPrice: 1 },
+  EBS: { marketValue: 303.44, shares: 4, avgPrice: 93.79 },
+  AMD: { marketValue: 789.9, shares: 10, avgPrice: 55.12 },
+  SPY: { marketValue: 823.22, shares: 2, avgPrice: 350.96 },
+  VBK: { marketValue: 560.18, shares: 2, avgPrice: 235.5 },
+  GME: { marketValue: 140.64, shares: 1, avgPrice: 380 },
+  VISL: { marketValue: 864.6, shares: 330, avgPrice: 3.378 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.8, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 498.62, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
+DONE WRITING VALUES
+2021-04-12T22:20:02.496Z
+GETTING TD AMERATRADE DATA
+DONE WRITING VALUES
+[ { shortQuantity: 0,
+    averagePrice: 76.01,
+    currentDayProfitLoss: -8.75,
+    currentDayProfitLossPercentage: -2.02,
+    longQuantity: 5,
+    settledLongQuantity: 5,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '46138G706', symbol: 'TAN' },
+    marketValue: 423.55,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 5 },
+  { shortQuantity: 0,
+    averagePrice: 118.62,
+    currentDayProfitLoss: -5.205,
+    currentDayProfitLossPercentage: -1.3,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '037833100', symbol: 'AAPL' },
+    marketValue: 393.78,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 0.395,
+    currentDayProfitLoss: -21.33,
+    currentDayProfitLossPercentage: -7.11,
+    longQuantity: 300,
+    settledLongQuantity: 300,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '86730L109', symbol: 'SNDL' },
+    marketValue: 278.67,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 300 },
+  { shortQuantity: 0,
+    averagePrice: 10.39,
+    currentDayProfitLoss: -4,
+    currentDayProfitLossPercentage: -0.4,
+    longQuantity: 100,
+    settledLongQuantity: 100,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '34619R102', symbol: 'FRX' },
+    marketValue: 1001,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 100 },
+  { shortQuantity: 0,
+    averagePrice: 223.83,
+    currentDayProfitLoss: 0.14,
+    currentDayProfitLossPercentage: 0.03,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '594918104', symbol: 'MSFT' },
+    marketValue: 511.84,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 429.78,
+    currentDayProfitLoss: 75.03,
+    currentDayProfitLossPercentage: 3.69,
+    longQuantity: 3,
+    settledLongQuantity: 3,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '88160R101', symbol: 'TSLA' },
+    marketValue: 2106.09,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 3 },
+  { shortQuantity: 0,
+    averagePrice: 1,
+    currentDayProfitLoss: 0,
+    currentDayProfitLossPercentage: 0,
+    longQuantity: 295.24,
+    settledLongQuantity: 295.24,
+    settledShortQuantity: 0,
+    instrument:
+     { assetType: 'CASH_EQUIVALENT',
+       cusip: '9ZZZFD104',
+       symbol: 'MMDA1',
+       description: 'FDIC INSURED DEPOSIT ACCOUNT  CORE  NOT COVERED BY SIPC',
+       type: 'MONEY_MARKET_FUND' },
+    marketValue: 295.24,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 295.24 },
+  { shortQuantity: 0,
+    averagePrice: 93.79,
+    currentDayProfitLoss: -5.88,
+    currentDayProfitLossPercentage: -1.9,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '29089Q105', symbol: 'EBS' },
+    marketValue: 303.52,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 55.12,
+    currentDayProfitLoss: -37.2,
+    currentDayProfitLossPercentage: -4.49,
+    longQuantity: 10,
+    settledLongQuantity: 10,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '007903107', symbol: 'AMD' },
+    marketValue: 790.4,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 10 },
+  { shortQuantity: 0,
+    averagePrice: 350.96,
+    currentDayProfitLoss: 0.32,
+    currentDayProfitLossPercentage: 0.04,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '78462F103', symbol: 'SPY' },
+    marketValue: 823.3,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 235.5,
+    currentDayProfitLoss: -2.1,
+    currentDayProfitLossPercentage: -0.37,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '922908595', symbol: 'VBK' },
+    marketValue: 560.18,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 },
+  { shortQuantity: 0,
+    averagePrice: 380,
+    currentDayProfitLoss: -17.47,
+    currentDayProfitLossPercentage: -11.03,
+    longQuantity: 1,
+    settledLongQuantity: 1,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '36467W109', symbol: 'GME' },
+    marketValue: 140.89,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 1 },
+  { shortQuantity: 0,
+    averagePrice: 3.378,
+    currentDayProfitLoss: -112.2,
+    currentDayProfitLossPercentage: -11.49,
+    longQuantity: 330,
+    settledLongQuantity: 330,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '92836Y300', symbol: 'VISL' },
+    marketValue: 864.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 330 },
+  { shortQuantity: 0,
+    averagePrice: 109.15,
+    currentDayProfitLoss: -7.6,
+    currentDayProfitLossPercentage: -1.55,
+    longQuantity: 4,
+    settledLongQuantity: 4,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '874039100', symbol: 'TSM' },
+    marketValue: 483.6,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 4 },
+  { shortQuantity: 0,
+    averagePrice: 42.059,
+    currentDayProfitLoss: -17.44,
+    currentDayProfitLossPercentage: -2.86,
+    longQuantity: 16,
+    settledLongQuantity: 16,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '62914V106', symbol: 'NIO' },
+    marketValue: 592.48,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 16 },
+  { shortQuantity: 0,
+    averagePrice: 180.965,
+    currentDayProfitLoss: -5.16,
+    currentDayProfitLossPercentage: -1.02,
+    longQuantity: 2,
+    settledLongQuantity: 2,
+    settledShortQuantity: 0,
+    instrument: { assetType: 'EQUITY', cusip: '097023105', symbol: 'BA' },
+    marketValue: 499.56,
+    maintenanceRequirement: 0,
+    currentDayCost: 0,
+    previousSessionLongQuantity: 2 } ]
+TAN
+[]
+AAPL
+[ 'TAN' ]
+SNDL
+[ 'TAN', 'AAPL' ]
+FRX
+[ 'TAN', 'AAPL', 'SNDL' ]
+MSFT
+[ 'TAN', 'AAPL', 'SNDL', 'FRX' ]
+TSLA
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT' ]
+MMDA1
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA' ]
+EBS
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1' ]
+AMD
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS' ]
+SPY
+[ 'TAN', 'AAPL', 'SNDL', 'FRX', 'MSFT', 'TSLA', 'MMDA1', 'EBS', 'AMD' ]
+VBK
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY' ]
+GME
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK' ]
+VISL
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME' ]
+TSM
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL' ]
+NIO
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM' ]
+BA
+[ 'TAN',
+  'AAPL',
+  'SNDL',
+  'FRX',
+  'MSFT',
+  'TSLA',
+  'MMDA1',
+  'EBS',
+  'AMD',
+  'SPY',
+  'VBK',
+  'GME',
+  'VISL',
+  'TSM',
+  'NIO' ]
+{ TAN: { marketValue: 423.55, shares: 5, avgPrice: 76.01 },
+  AAPL: { marketValue: 393.78, shares: 3, avgPrice: 118.62 },
+  SNDL: { marketValue: 278.67, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 511.84, shares: 2, avgPrice: 223.83 },
+  TSLA: { marketValue: 2106.09, shares: 3, avgPrice: 429.78 },
+  MMDA1: { marketValue: 295.24, shares: 295.24, avgPrice: 1 },
+  EBS: { marketValue: 303.52, shares: 4, avgPrice: 93.79 },
+  AMD: { marketValue: 790.4, shares: 10, avgPrice: 55.12 },
+  SPY: { marketValue: 823.3, shares: 2, avgPrice: 350.96 },
+  VBK: { marketValue: 560.18, shares: 2, avgPrice: 235.5 },
+  GME: { marketValue: 140.89, shares: 1, avgPrice: 380 },
+  VISL: { marketValue: 864.6, shares: 330, avgPrice: 3.378 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.48, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 499.56, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
+2021-04-12T22:25:01.993Z
+GETTING TD AMERATRADE DATA
+17947.86
+DONE WRITING VALUES
+{ TAN: { marketValue: 847.1, shares: 10, avgPrice: 71.648 },
+  AAPL:
+   { marketValue: 787.68, shares: 6, avgPrice: 116.75150000000001 },
+  SNDL: { marketValue: 278.67, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 1023.8, shares: 4, avgPrice: 220.34 },
+  TSLA: { marketValue: 2808.2, shares: 4, avgPrice: 431.0525 },
+  MMDA1: { marketValue: 942.16, shares: 942.16, avgPrice: 1 },
+  EBS: { marketValue: 303.52, shares: 4, avgPrice: 93.79 },
+  AMD:
+   { marketValue: 1421.46, shares: 18, avgPrice: 66.9022222222222 },
+  SPY: { marketValue: 1646.56, shares: 4, avgPrice: 348.185 },
+  VBK:
+   { marketValue: 840.27, shares: 3, avgPrice: 233.75333333333333 },
+  GME: { marketValue: 140.89, shares: 1, avgPrice: 380 },
+  VISL:
+   { marketValue: 1218.3, shares: 465, avgPrice: 3.544064516129032 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.64, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 500.5, shares: 2, avgPrice: 180.965 },
+  CCIV: { marketValue: 352.48, shares: 16, avgPrice: 35.766 },
+  AMC: { marketValue: 86.2, shares: 10, avgPrice: 13.11 },
+  TLRY: { marketValue: 343.8, shares: 20, avgPrice: 21.81 },
+  JETS: { marketValue: 267.8, shares: 10, avgPrice: 17.265 },
+  VNQ: { marketValue: 471.05, shares: 5, avgPrice: 80.836 },
+  PLTR: { marketValue: 468.2, shares: 20, avgPrice: 26.875 },
+  MARA: { marketValue: 501, shares: 10, avgPrice: 33.9 },
+  SOL: { marketValue: 180.9, shares: 18, avgPrice: 20.951 },
+  JMIA: { marketValue: 283.84, shares: 8, avgPrice: 37.52 } }
+DONE WRITING POSITIONS
+2021-04-12T22:30:02.473Z
+GETTING TD AMERATRADE DATA
+17947.92
+DONE WRITING VALUES
+{ TAN: { marketValue: 847.1, shares: 10, avgPrice: 71.648 },
+  AAPL:
+   { marketValue: 787.62, shares: 6, avgPrice: 116.75150000000001 },
+  SNDL: { marketValue: 278.97, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 1023.84, shares: 4, avgPrice: 220.34 },
+  TSLA: { marketValue: 2808.04, shares: 4, avgPrice: 431.0525 },
+  MMDA1: { marketValue: 942.16, shares: 942.16, avgPrice: 1 },
+  EBS: { marketValue: 303.52, shares: 4, avgPrice: 93.79 },
+  AMD:
+   { marketValue: 1421.1, shares: 18, avgPrice: 66.9022222222222 },
+  SPY: { marketValue: 1646.52, shares: 4, avgPrice: 348.185 },
+  VBK:
+   { marketValue: 840.27, shares: 3, avgPrice: 233.75333333333333 },
+  GME: { marketValue: 140.75, shares: 1, avgPrice: 380 },
+  VISL:
+   { marketValue: 1218.3, shares: 465, avgPrice: 3.544064516129032 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.64, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 500.58, shares: 2, avgPrice: 180.965 },
+  CCIV: { marketValue: 352.48, shares: 16, avgPrice: 35.766 },
+  AMC: { marketValue: 86.2, shares: 10, avgPrice: 13.11 },
+  TLRY: { marketValue: 343.8, shares: 20, avgPrice: 21.81 },
+  JETS: { marketValue: 267.8, shares: 10, avgPrice: 17.265 },
+  VNQ: { marketValue: 471.05, shares: 5, avgPrice: 80.836 },
+  PLTR: { marketValue: 468.6, shares: 20, avgPrice: 26.875 },
+  MARA: { marketValue: 501, shares: 10, avgPrice: 33.9 },
+  SOL: { marketValue: 180.9, shares: 18, avgPrice: 20.951 },
+  JMIA: { marketValue: 283.84, shares: 8, avgPrice: 37.52 } }
+DONE WRITING POSITIONS
+2021-04-12T22:35:01.920Z
+GETTING TD AMERATRADE DATA
+{ TAN: { marketValue: 847.1, shares: 10, avgPrice: 71.648 },
+  AAPL:
+   { marketValue: 787.56, shares: 6, avgPrice: 116.75150000000001 },
+  SNDL: { marketValue: 279, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 1023.8, shares: 4, avgPrice: 220.34 },
+  TSLA: { marketValue: 2808.04, shares: 4, avgPrice: 431.0525 },
+  MMDA1: { marketValue: 942.16, shares: 942.16, avgPrice: 1 },
+  EBS: { marketValue: 303.52, shares: 4, avgPrice: 93.79 },
+  AMD:
+   { marketValue: 1421.1, shares: 18, avgPrice: 66.9022222222222 },
+  SPY: { marketValue: 1646.52, shares: 4, avgPrice: 348.185 },
+  VBK:
+   { marketValue: 840.27, shares: 3, avgPrice: 233.75333333333333 },
+  GME: { marketValue: 140.89, shares: 1, avgPrice: 380 },
+  VISL:
+   { marketValue: 1218.3, shares: 465, avgPrice: 3.544064516129032 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.8, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 500.22, shares: 2, avgPrice: 180.965 },
+  CCIV: { marketValue: 351.84, shares: 16, avgPrice: 35.766 },
+  AMC: { marketValue: 86.1, shares: 10, avgPrice: 13.11 },
+  TLRY: { marketValue: 344, shares: 20, avgPrice: 21.81 },
+  JETS: { marketValue: 267.8, shares: 10, avgPrice: 17.265 },
+  VNQ: { marketValue: 471.05, shares: 5, avgPrice: 80.836 },
+  PLTR: { marketValue: 468.8, shares: 20, avgPrice: 26.875 },
+  MARA: { marketValue: 501.5, shares: 10, avgPrice: 33.9 },
+  SOL: { marketValue: 180.9, shares: 18, avgPrice: 20.951 },
+  JMIA: { marketValue: 283.84, shares: 8, avgPrice: 37.52 } }
+DONE WRITING POSITIONS
+17947.95
+DONE WRITING VALUES
+2021-04-12T22:40:02.388Z
+GETTING TD AMERATRADE DATA
+{ TAN: { marketValue: 847.1, shares: 10, avgPrice: 71.648 },
+  AAPL:
+   { marketValue: 787.56, shares: 6, avgPrice: 116.75150000000001 },
+  SNDL: { marketValue: 279, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  MSFT: { marketValue: 1023.96, shares: 4, avgPrice: 220.34 },
+  TSLA: { marketValue: 2808.04, shares: 4, avgPrice: 431.0525 },
+  MMDA1: { marketValue: 942.16, shares: 942.16, avgPrice: 1 },
+  EBS: { marketValue: 303.52, shares: 4, avgPrice: 93.79 },
+  AMD:
+   { marketValue: 1421.82, shares: 18, avgPrice: 66.9022222222222 },
+  SPY: { marketValue: 1646.56, shares: 4, avgPrice: 348.185 },
+  VBK:
+   { marketValue: 840.27, shares: 3, avgPrice: 233.75333333333333 },
+  GME: { marketValue: 140.88, shares: 1, avgPrice: 380 },
+  VISL:
+   { marketValue: 1209, shares: 465, avgPrice: 3.544064516129032 },
+  TSM: { marketValue: 483.6, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.64, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 500.02, shares: 2, avgPrice: 180.965 },
+  CCIV: { marketValue: 351.68, shares: 16, avgPrice: 35.766 },
+  AMC: { marketValue: 86.2, shares: 10, avgPrice: 13.11 },
+  TLRY: { marketValue: 343.8, shares: 20, avgPrice: 21.81 },
+  JETS: { marketValue: 267.8, shares: 10, avgPrice: 17.265 },
+  VNQ: { marketValue: 471.05, shares: 5, avgPrice: 80.836 },
+  PLTR: { marketValue: 468.6, shares: 20, avgPrice: 26.875 },
+  MARA: { marketValue: 501.1, shares: 10, avgPrice: 33.9 },
+  SOL: { marketValue: 180.9, shares: 18, avgPrice: 20.951 },
+  JMIA: { marketValue: 283.84, shares: 8, avgPrice: 37.52 } }
+DONE WRITING POSITIONS
+17938.34
+DONE WRITING VALUES
+2021-04-12T22:45:01.901Z
+GETTING TD AMERATRADE DATA
+17947.760000000002
+DONE WRITING VALUES
+{ TAN: { marketValue: 847.1, shares: 10, avgPrice: 71.648 },
+  AAPL:
+   { marketValue: 787.5, shares: 6, avgPrice: 116.75150000000001 },
+  MSFT: { marketValue: 1023.8, shares: 4, avgPrice: 220.34 },
+  CCIV: { marketValue: 351.84, shares: 16, avgPrice: 35.766 },
+  TSLA: { marketValue: 2808, shares: 4, avgPrice: 431.0525 },
+  MMDA1: { marketValue: 942.16, shares: 942.16, avgPrice: 1 },
+  AMC: { marketValue: 86.2, shares: 10, avgPrice: 13.11 },
+  TLRY: { marketValue: 343.8, shares: 20, avgPrice: 21.81 },
+  JETS: { marketValue: 267.8, shares: 10, avgPrice: 17.265 },
+  AMD:
+   { marketValue: 1422, shares: 18, avgPrice: 66.9022222222222 },
+  VNQ: { marketValue: 471.05, shares: 5, avgPrice: 80.836 },
+  SPY: { marketValue: 1646.56, shares: 4, avgPrice: 348.185 },
+  VBK:
+   { marketValue: 840.27, shares: 3, avgPrice: 233.75333333333333 },
+  PLTR: { marketValue: 468, shares: 20, avgPrice: 26.875 },
+  MARA: { marketValue: 501.8, shares: 10, avgPrice: 33.9 },
+  VISL:
+   { marketValue: 1218.3, shares: 465, avgPrice: 3.544064516129032 },
+  SOL: { marketValue: 180.9, shares: 18, avgPrice: 20.951 },
+  JMIA: { marketValue: 283.84, shares: 8, avgPrice: 37.52 },
+  SNDL: { marketValue: 278.94, shares: 300, avgPrice: 0.395 },
+  FRX: { marketValue: 1001, shares: 100, avgPrice: 10.39 },
+  EBS: { marketValue: 303.52, shares: 4, avgPrice: 93.79 },
+  GME: { marketValue: 140.8, shares: 1, avgPrice: 380 },
+  TSM: { marketValue: 483.56, shares: 4, avgPrice: 109.15 },
+  NIO: { marketValue: 592.64, shares: 16, avgPrice: 42.059 },
+  BA: { marketValue: 500.14, shares: 2, avgPrice: 180.965 } }
+DONE WRITING POSITIONS
