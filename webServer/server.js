@@ -24,7 +24,7 @@ app.get('/positions', (req, res) => {
 
 app.get('/value', (req, res) => {
     let type = req.query['type']
-    console.log('got value req with param' + type)
+    console.log('got value req with param ' + type)
     readValueData(res, type);
 })
 
@@ -64,7 +64,14 @@ function formatPositionData(results, res, type) {
             let date = new Date(parseInt(line['time']))
             let formattedDate = date.getMonth() + "/" + date.getDate() + " " + date.getHours() + ":" + date.getMinutes();
             accumulator[line['ticker']]['x'].push(formattedDate)
-            accumulator[line['ticker']]['y'].push(line['value'])
+            if (type == 'dollar'){
+                accumulator[line['ticker']]['y'].push(line['value'])
+            } else {
+                let shares = parseInt(line['shares'])
+                let value = parseFloat(line['value'])
+                let avg = parseFloat(line['averagePrice'])
+                accumulator[line['ticker']]['y'].push((value / shares) / avg - 1)
+            }
 
         } else {
             accumulator[line['ticker']] = { 'x': [], 'y': [] }

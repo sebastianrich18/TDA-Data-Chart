@@ -12,7 +12,12 @@ function ajaxGetRequest(path, callback) {
 function setPositionsData(response) {
   let data = JSON.parse(response)
   console.log(data)
-  let layout = { "title": "Positions" }
+  let layout = { "title": "Positions", 'yaxis': {}}
+  if (getRadioValue() == 'dollar') {
+    layout['yaxis']['tickformat'] = '$'
+  } else {
+    layout['yaxis']['tickformat'] = '.3%'
+  }
   Plotly.newPlot('positions', data, layout)
 }
 
@@ -24,7 +29,6 @@ function setValueData(response) {
     layout['yaxis']['tickformat'] = '$'
   } else {
     layout['yaxis']['tickformat'] = '.3%'
-
   }
   Plotly.newPlot('value', [data], layout)
 }
