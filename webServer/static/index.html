@@ -1,0 +1,19 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Stonks Go Up</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src='index.js'></script>
+</head>
+
+<body onload='getData()'>
+  <input type="radio" name="type" value="percent" onchange='getData()' checked> % P/L<br>
+  <input type="radio" name="type" value="dollar" onchange='getData()'>$ P/L<br>
+  <div id="value"></div>
+  <div id="positions"></div>
+</body>
+
+</html>
